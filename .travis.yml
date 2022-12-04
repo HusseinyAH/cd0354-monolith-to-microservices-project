@@ -28,5 +28,5 @@ after_success:
   - docker push husseiny1234/udagram-api-feed:v1
   - docker push husseiny1234/udagram-api-user:v1
   - docker push husseiny1234/udagram-frontend:v1
-  - docker push ohusseiny1234/udagram-reverseproxy:v1
+  - docker push husseiny1234/udagram-reverseproxy:v1
 
