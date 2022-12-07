@@ -1,7 +1,0 @@
-POSTGRES_HOST=postgres.cxqil2rrzowv.us-east-1.rds.amazonaws.com
-POSTGRES_DB=postgres
-AWS_BUCKET=udacityfinal-371937519583-dev
-AWS_REGION=us-east-1
-AWS_PROFILE=default
-JWT_SECRET=testing
-URL=http://localhost:8100
